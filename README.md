@@ -38,6 +38,13 @@ link - https://drive.google.com/file/d/1HX1Gpwpca6W5jwGyHq8ODnJXPO77M0eT/view?us
 
 Screenshots
 Workflow- 
+<img width="1918" height="915" alt="Screenshot 2026-05-12 233657" src="https://github.com/user-attachments/assets/62017471-5a67-43ad-a503-6efb48046c4b" />
 
 
 Automation Output-
+<img width="1511" height="363" alt="Screenshot 2026-05-12 233829" src="https://github.com/user-attachments/assets/c3ee902c-3920-4343-b358-1eefe0d47b0d" />
+<img width="1502" height="387" alt="Screenshot 2026-05-12 233856" src="https://github.com/user-attachments/assets/e1b9f019-262e-4268-bc6d-060be9a531c9" />
+<img width="1503" height="397" alt="Screenshot 2026-05-12 234215" src="https://github.com/user-attachments/assets/e3007b10-da75-4f4f-973d-4da27737e5a3" />
+<img width="1500" height="361" alt="Screenshot 2026-05-12 234233" src="https://github.com/user-attachments/assets/27990b9d-863f-4332-8375-7a8f13f2fc4d" />
+
+
